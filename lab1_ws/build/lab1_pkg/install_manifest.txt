@@ -1,0 +1,15 @@
+/root/lab1_ws/install/lab1_pkg/share/ament_index/resource_index/package_run_dependencies/lab1_pkg
+/root/lab1_ws/install/lab1_pkg/share/ament_index/resource_index/parent_prefix_path/lab1_pkg
+/root/lab1_ws/install/lab1_pkg/share/lab1_pkg/environment/ament_prefix_path.sh
+/root/lab1_ws/install/lab1_pkg/share/lab1_pkg/environment/ament_prefix_path.dsv
+/root/lab1_ws/install/lab1_pkg/share/lab1_pkg/environment/path.sh
+/root/lab1_ws/install/lab1_pkg/share/lab1_pkg/environment/path.dsv
+/root/lab1_ws/install/lab1_pkg/share/lab1_pkg/local_setup.bash
+/root/lab1_ws/install/lab1_pkg/share/lab1_pkg/local_setup.sh
+/root/lab1_ws/install/lab1_pkg/share/lab1_pkg/local_setup.zsh
+/root/lab1_ws/install/lab1_pkg/share/lab1_pkg/local_setup.dsv
+/root/lab1_ws/install/lab1_pkg/share/lab1_pkg/package.dsv
+/root/lab1_ws/install/lab1_pkg/share/ament_index/resource_index/packages/lab1_pkg
+/root/lab1_ws/install/lab1_pkg/share/lab1_pkg/cmake/lab1_pkgConfig.cmake
+/root/lab1_ws/install/lab1_pkg/share/lab1_pkg/cmake/lab1_pkgConfig-version.cmake
+/root/lab1_ws/install/lab1_pkg/share/lab1_pkg/package.xml

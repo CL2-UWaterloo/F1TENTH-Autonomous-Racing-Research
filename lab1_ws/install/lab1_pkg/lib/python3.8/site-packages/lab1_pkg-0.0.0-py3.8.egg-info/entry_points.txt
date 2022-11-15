@@ -1,0 +1,4 @@
+[console_scripts]
+relay = lab1_pkg.relay:main
+talker = lab1_pkg.talker:main
+

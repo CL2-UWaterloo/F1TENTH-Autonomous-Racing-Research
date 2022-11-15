@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+../build/lab1_pkg/lab1_pkg.egg-info/PKG-INFO
+../build/lab1_pkg/lab1_pkg.egg-info/SOURCES.txt
+../build/lab1_pkg/lab1_pkg.egg-info/dependency_links.txt
+../build/lab1_pkg/lab1_pkg.egg-info/entry_points.txt
+../build/lab1_pkg/lab1_pkg.egg-info/requires.txt
+../build/lab1_pkg/lab1_pkg.egg-info/top_level.txt
+../build/lab1_pkg/lab1_pkg.egg-info/zip-safe
+lab1_pkg/__init__.py
+lab1_pkg/relay.py
+lab1_pkg/talker.py
+resource/lab1_pkg
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

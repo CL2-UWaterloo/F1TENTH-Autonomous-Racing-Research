@@ -1,0 +1,37 @@
+running egg_info
+creating ../../build/lab1_pkg/lab1_pkg.egg-info
+writing ../../build/lab1_pkg/lab1_pkg.egg-info/PKG-INFO
+writing dependency_links to ../../build/lab1_pkg/lab1_pkg.egg-info/dependency_links.txt
+writing entry points to ../../build/lab1_pkg/lab1_pkg.egg-info/entry_points.txt
+writing requirements to ../../build/lab1_pkg/lab1_pkg.egg-info/requires.txt
+writing top-level names to ../../build/lab1_pkg/lab1_pkg.egg-info/top_level.txt
+writing manifest file '../../build/lab1_pkg/lab1_pkg.egg-info/SOURCES.txt'
+reading manifest file '../../build/lab1_pkg/lab1_pkg.egg-info/SOURCES.txt'
+writing manifest file '../../build/lab1_pkg/lab1_pkg.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /root/lab1_ws/build/lab1_pkg/build
+creating /root/lab1_ws/build/lab1_pkg/build/lib
+creating /root/lab1_ws/build/lab1_pkg/build/lib/lab1_pkg
+copying lab1_pkg/__init__.py -> /root/lab1_ws/build/lab1_pkg/build/lib/lab1_pkg
+copying lab1_pkg/relay.py -> /root/lab1_ws/build/lab1_pkg/build/lib/lab1_pkg
+copying lab1_pkg/talker.py -> /root/lab1_ws/build/lab1_pkg/build/lib/lab1_pkg
+running install
+running install_lib
+creating /root/lab1_ws/install/lab1_pkg/lib/python3.8/site-packages/lab1_pkg
+copying /root/lab1_ws/build/lab1_pkg/build/lib/lab1_pkg/__init__.py -> /root/lab1_ws/install/lab1_pkg/lib/python3.8/site-packages/lab1_pkg
+copying /root/lab1_ws/build/lab1_pkg/build/lib/lab1_pkg/relay.py -> /root/lab1_ws/install/lab1_pkg/lib/python3.8/site-packages/lab1_pkg
+copying /root/lab1_ws/build/lab1_pkg/build/lib/lab1_pkg/talker.py -> /root/lab1_ws/install/lab1_pkg/lib/python3.8/site-packages/lab1_pkg
+byte-compiling /root/lab1_ws/install/lab1_pkg/lib/python3.8/site-packages/lab1_pkg/__init__.py to __init__.cpython-38.pyc
+byte-compiling /root/lab1_ws/install/lab1_pkg/lib/python3.8/site-packages/lab1_pkg/relay.py to relay.cpython-38.pyc
+Sorry: TabError: inconsistent use of tabs and spaces in indentation (relay.py, line 20)
+byte-compiling /root/lab1_ws/install/lab1_pkg/lib/python3.8/site-packages/lab1_pkg/talker.py to talker.cpython-38.pyc
+running install_data
+copying resource/lab1_pkg -> /root/lab1_ws/install/lab1_pkg/share/ament_index/resource_index/packages
+copying package.xml -> /root/lab1_ws/install/lab1_pkg/share/lab1_pkg
+running install_egg_info
+Copying ../../build/lab1_pkg/lab1_pkg.egg-info to /root/lab1_ws/install/lab1_pkg/lib/python3.8/site-packages/lab1_pkg-0.0.0-py3.8.egg-info
+running install_scripts
+Installing relay script to /root/lab1_ws/install/lab1_pkg/lib/lab1_pkg
+Installing talker script to /root/lab1_ws/install/lab1_pkg/lib/lab1_pkg
+writing list of installed files to '/root/lab1_ws/build/lab1_pkg/install.log'

@@ -1,0 +1,22 @@
+[0.357s] Invoking command in '/lab1_ws/src/lab1_pkg': PYTHONPATH=/lab1_ws/src/install/lab1_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/lab1_pkg build --build-base /lab1_ws/src/build/lab1_pkg/build install --prefix /lab1_ws/src/install/lab1_pkg --record /lab1_ws/src/build/lab1_pkg/install.log --single-version-externally-managed
+[0.439s] running egg_info
+[0.444s] writing ../build/lab1_pkg/lab1_pkg.egg-info/PKG-INFO
+[0.449s] writing dependency_links to ../build/lab1_pkg/lab1_pkg.egg-info/dependency_links.txt
+[0.454s] writing entry points to ../build/lab1_pkg/lab1_pkg.egg-info/entry_points.txt
+[0.459s] writing requirements to ../build/lab1_pkg/lab1_pkg.egg-info/requires.txt
+[0.464s] writing top-level names to ../build/lab1_pkg/lab1_pkg.egg-info/top_level.txt
+[0.496s] reading manifest file '../build/lab1_pkg/lab1_pkg.egg-info/SOURCES.txt'
+[0.506s] writing manifest file '../build/lab1_pkg/lab1_pkg.egg-info/SOURCES.txt'
+[0.509s] running build
+[0.513s] running build_py
+[0.517s] running install
+[0.522s] running install_lib
+[0.528s] running install_data
+[0.532s] running install_egg_info
+[0.535s] removing '/lab1_ws/src/install/lab1_pkg/lib/python3.8/site-packages/lab1_pkg-0.0.0-py3.8.egg-info' (and everything under it)
+[0.538s] Copying ../build/lab1_pkg/lab1_pkg.egg-info to /lab1_ws/src/install/lab1_pkg/lib/python3.8/site-packages/lab1_pkg-0.0.0-py3.8.egg-info
+[0.611s] running install_scripts
+[0.626s] Installing relay script to /lab1_ws/src/install/lab1_pkg/lib/lab1_pkg
+[0.633s] Installing talker script to /lab1_ws/src/install/lab1_pkg/lib/lab1_pkg
+[0.639s] writing list of installed files to '/lab1_ws/src/build/lab1_pkg/install.log'
+[0.657s] Invoked command in '/lab1_ws/src/lab1_pkg' returned '0': PYTHONPATH=/lab1_ws/src/install/lab1_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/lab1_pkg build --build-base /lab1_ws/src/build/lab1_pkg/build install --prefix /lab1_ws/src/install/lab1_pkg --record /lab1_ws/src/build/lab1_pkg/install.log --single-version-externally-managed

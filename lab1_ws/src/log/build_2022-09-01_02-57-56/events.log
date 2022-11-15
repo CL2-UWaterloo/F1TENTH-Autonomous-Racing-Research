@@ -1,0 +1,55 @@
+[0.000000] (-) TimerEvent: {}
+[0.001178] (lab1_pkg) JobQueued: {'identifier': 'lab1_pkg', 'dependencies': OrderedDict()}
+[0.002585] (lab1_pkg) JobStarted: {'identifier': 'lab1_pkg'}
+[0.097234] (-) TimerEvent: {}
+[0.198421] (-) TimerEvent: {}
+[0.303659] (-) TimerEvent: {}
+[0.355010] (lab1_pkg) Command: {'cmd': ['/usr/bin/python3', 'setup.py', 'egg_info', '--egg-base', '../build/lab1_pkg', 'build', '--build-base', '/lab1_ws/src/build/lab1_pkg/build', 'install', '--prefix', '/lab1_ws/src/install/lab1_pkg', '--record', '/lab1_ws/src/build/lab1_pkg/install.log', '--single-version-externally-managed'], 'cwd': '/lab1_ws/src/lab1_pkg', 'env': {'HOSTNAME': 'bc0624d4aa56', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/lib/aarch64-linux-gnu:/opt/ros/foxy/lib', 'HOME': '/root', 'OLDPWD': '/lab1_ws/src/launch', 'ROS_PYTHON_VERSION': '3', 'COLCON_PREFIX_PATH': '/lab1_ws/install', 'ROS_DISTRO': 'foxy', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'TERM': 'xterm', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/opt/ros/foxy/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin', 'LANG': 'C.UTF-8', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'AMENT_PREFIX_PATH': '/lab1_ws/install/lab1_pkg:/opt/ros/foxy', 'PWD': '/lab1_ws/src/build/lab1_pkg', 'LC_ALL': 'C.UTF-8', 'PYTHONPATH': '/lab1_ws/src/install/lab1_pkg/lib/python3.8/site-packages:/lab1_ws/install/lab1_pkg/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages', 'COLCON': '1'}, 'shell': False}
+[0.403753] (-) TimerEvent: {}
+[0.447636] (lab1_pkg) StdoutLine: {'line': b'running egg_info\n'}
+[0.453046] (lab1_pkg) StdoutLine: {'line': b'creating ../build/lab1_pkg/lab1_pkg.egg-info\n'}
+[0.458011] (lab1_pkg) StdoutLine: {'line': b'writing ../build/lab1_pkg/lab1_pkg.egg-info/PKG-INFO\n'}
+[0.467016] (lab1_pkg) StdoutLine: {'line': b'writing dependency_links to ../build/lab1_pkg/lab1_pkg.egg-info/dependency_links.txt\n'}
+[0.473350] (lab1_pkg) StdoutLine: {'line': b'writing entry points to ../build/lab1_pkg/lab1_pkg.egg-info/entry_points.txt\n'}
+[0.478602] (lab1_pkg) StdoutLine: {'line': b'writing requirements to ../build/lab1_pkg/lab1_pkg.egg-info/requires.txt\n'}
+[0.482235] (lab1_pkg) StdoutLine: {'line': b'writing top-level names to ../build/lab1_pkg/lab1_pkg.egg-info/top_level.txt\n'}
+[0.488196] (lab1_pkg) StdoutLine: {'line': b"writing manifest file '../build/lab1_pkg/lab1_pkg.egg-info/SOURCES.txt'\n"}
+[0.503859] (-) TimerEvent: {}
+[0.517565] (lab1_pkg) StdoutLine: {'line': b"reading manifest file '../build/lab1_pkg/lab1_pkg.egg-info/SOURCES.txt'\n"}
+[0.530257] (lab1_pkg) StdoutLine: {'line': b"writing manifest file '../build/lab1_pkg/lab1_pkg.egg-info/SOURCES.txt'\n"}
+[0.536409] (lab1_pkg) StdoutLine: {'line': b'running build\n'}
+[0.540054] (lab1_pkg) StdoutLine: {'line': b'running build_py\n'}
+[0.544337] (lab1_pkg) StdoutLine: {'line': b'creating /lab1_ws/src/build/lab1_pkg/build\n'}
+[0.547426] (lab1_pkg) StdoutLine: {'line': b'creating /lab1_ws/src/build/lab1_pkg/build/lib\n'}
+[0.549521] (lab1_pkg) StdoutLine: {'line': b'creating /lab1_ws/src/build/lab1_pkg/build/lib/lab1_pkg\n'}
+[0.552380] (lab1_pkg) StdoutLine: {'line': b'copying lab1_pkg/__init__.py -> /lab1_ws/src/build/lab1_pkg/build/lib/lab1_pkg\n'}
+[0.557469] (lab1_pkg) StdoutLine: {'line': b'copying lab1_pkg/relay.py -> /lab1_ws/src/build/lab1_pkg/build/lib/lab1_pkg\n'}
+[0.570068] (lab1_pkg) StdoutLine: {'line': b'copying lab1_pkg/talker.py -> /lab1_ws/src/build/lab1_pkg/build/lib/lab1_pkg\n'}
+[0.579080] (lab1_pkg) StdoutLine: {'line': b'running install\n'}
+[0.582095] (lab1_pkg) StdoutLine: {'line': b'running install_lib\n'}
+[0.586266] (lab1_pkg) StdoutLine: {'line': b'creating /lab1_ws/src/install/lab1_pkg/lib/python3.8/site-packages/lab1_pkg\n'}
+[0.590300] (lab1_pkg) StdoutLine: {'line': b'copying /lab1_ws/src/build/lab1_pkg/build/lib/lab1_pkg/__init__.py -> /lab1_ws/src/install/lab1_pkg/lib/python3.8/site-packages/lab1_pkg\n'}
+[0.600175] (lab1_pkg) StdoutLine: {'line': b'copying /lab1_ws/src/build/lab1_pkg/build/lib/lab1_pkg/relay.py -> /lab1_ws/src/install/lab1_pkg/lib/python3.8/site-packages/lab1_pkg\n'}
+[0.603920] (-) TimerEvent: {}
+[0.613480] (lab1_pkg) StdoutLine: {'line': b'copying /lab1_ws/src/build/lab1_pkg/build/lib/lab1_pkg/talker.py -> /lab1_ws/src/install/lab1_pkg/lib/python3.8/site-packages/lab1_pkg\n'}
+[0.624456] (lab1_pkg) StdoutLine: {'line': b'byte-compiling /lab1_ws/src/install/lab1_pkg/lib/python3.8/site-packages/lab1_pkg/__init__.py to __init__.cpython-38.pyc\n'}
+[0.638218] (lab1_pkg) StdoutLine: {'line': b'byte-compiling /lab1_ws/src/install/lab1_pkg/lib/python3.8/site-packages/lab1_pkg/relay.py to relay.cpython-38.pyc\n'}
+[0.650604] (lab1_pkg) StdoutLine: {'line': b'byte-compiling /lab1_ws/src/install/lab1_pkg/lib/python3.8/site-packages/lab1_pkg/talker.py to talker.cpython-38.pyc\n'}
+[0.658887] (lab1_pkg) StdoutLine: {'line': b'running install_data\n'}
+[0.662058] (lab1_pkg) StdoutLine: {'line': b'creating /lab1_ws/src/install/lab1_pkg/share/ament_index\n'}
+[0.665478] (lab1_pkg) StdoutLine: {'line': b'creating /lab1_ws/src/install/lab1_pkg/share/ament_index/resource_index\n'}
+[0.668069] (lab1_pkg) StdoutLine: {'line': b'creating /lab1_ws/src/install/lab1_pkg/share/ament_index/resource_index/packages\n'}
+[0.670526] (lab1_pkg) StdoutLine: {'line': b'copying resource/lab1_pkg -> /lab1_ws/src/install/lab1_pkg/share/ament_index/resource_index/packages\n'}
+[0.677512] (lab1_pkg) StdoutLine: {'line': b'copying package.xml -> /lab1_ws/src/install/lab1_pkg/share/lab1_pkg\n'}
+[0.686036] (lab1_pkg) StdoutLine: {'line': b'running install_egg_info\n'}
+[0.689621] (lab1_pkg) StdoutLine: {'line': b'Copying ../build/lab1_pkg/lab1_pkg.egg-info to /lab1_ws/src/install/lab1_pkg/lib/python3.8/site-packages/lab1_pkg-0.0.0-py3.8.egg-info\n'}
+[0.704020] (-) TimerEvent: {}
+[0.769608] (lab1_pkg) StdoutLine: {'line': b'running install_scripts\n'}
+[0.783300] (lab1_pkg) StdoutLine: {'line': b'Installing relay script to /lab1_ws/src/install/lab1_pkg/lib/lab1_pkg\n'}
+[0.792399] (lab1_pkg) StdoutLine: {'line': b'Installing talker script to /lab1_ws/src/install/lab1_pkg/lib/lab1_pkg\n'}
+[0.801396] (lab1_pkg) StdoutLine: {'line': b"writing list of installed files to '/lab1_ws/src/build/lab1_pkg/install.log'\n"}
+[0.805082] (-) TimerEvent: {}
+[0.821745] (lab1_pkg) CommandEnded: {'returncode': 0}
+[0.905188] (-) TimerEvent: {}
+[0.964432] (lab1_pkg) JobEnded: {'identifier': 'lab1_pkg', 'rc': 0}
+[0.970948] (-) EventReactorShutdown: {}

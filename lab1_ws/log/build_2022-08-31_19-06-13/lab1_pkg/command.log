@@ -1,0 +1,6 @@
+Invoking command in '/root/lab1_ws/build/lab1_pkg': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /root/lab1_ws/src/lab1_pkg -DCMAKE_INSTALL_PREFIX=/root/lab1_ws/install/lab1_pkg
+Invoked command in '/root/lab1_ws/build/lab1_pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /root/lab1_ws/src/lab1_pkg -DCMAKE_INSTALL_PREFIX=/root/lab1_ws/install/lab1_pkg
+Invoking command in '/root/lab1_ws/build/lab1_pkg': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /root/lab1_ws/build/lab1_pkg -- -j5 -l5
+Invoked command in '/root/lab1_ws/build/lab1_pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /root/lab1_ws/build/lab1_pkg -- -j5 -l5
+Invoking command in '/root/lab1_ws/build/lab1_pkg': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /root/lab1_ws/build/lab1_pkg
+Invoked command in '/root/lab1_ws/build/lab1_pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /root/lab1_ws/build/lab1_pkg

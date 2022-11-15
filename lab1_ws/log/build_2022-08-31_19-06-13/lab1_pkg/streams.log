@@ -1,0 +1,48 @@
+[0.014s] Invoking command in '/root/lab1_ws/build/lab1_pkg': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /root/lab1_ws/src/lab1_pkg -DCMAKE_INSTALL_PREFIX=/root/lab1_ws/install/lab1_pkg
+[0.083s] -- The C compiler identification is GNU 9.4.0
+[0.139s] -- The CXX compiler identification is GNU 9.4.0
+[0.143s] -- Check for working C compiler: /usr/bin/cc
+[0.197s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.198s] -- Detecting C compiler ABI info
+[0.250s] -- Detecting C compiler ABI info - done
+[0.258s] -- Detecting C compile features
+[0.259s] -- Detecting C compile features - done
+[0.261s] -- Check for working CXX compiler: /usr/bin/c++
+[0.321s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.322s] -- Detecting CXX compiler ABI info
+[0.382s] -- Detecting CXX compiler ABI info - done
+[0.390s] -- Detecting CXX compile features
+[0.391s] -- Detecting CXX compile features - done
+[0.394s] -- Found ament_cmake: 0.9.9 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.407s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.407s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.490s] -- Found ament_lint_auto: 0.9.6 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[0.533s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.534s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.535s] -- Added test 'lint_cmake' to check CMake code style
+[0.535s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[0.536s] -- Added test 'xmllint' to check XML markup files
+[0.538s] -- Configuring done
+[0.539s] -- Generating done
+[0.540s] -- Build files have been written to: /root/lab1_ws/build/lab1_pkg
+[0.543s] Invoked command in '/root/lab1_ws/build/lab1_pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /root/lab1_ws/src/lab1_pkg -DCMAKE_INSTALL_PREFIX=/root/lab1_ws/install/lab1_pkg
+[0.546s] Invoking command in '/root/lab1_ws/build/lab1_pkg': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /root/lab1_ws/build/lab1_pkg -- -j5 -l5
+[0.573s] Invoked command in '/root/lab1_ws/build/lab1_pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /root/lab1_ws/build/lab1_pkg -- -j5 -l5
+[0.597s] Invoking command in '/root/lab1_ws/build/lab1_pkg': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /root/lab1_ws/build/lab1_pkg
+[0.603s] -- Install configuration: ""
+[0.603s] -- Installing: /root/lab1_ws/install/lab1_pkg/share/ament_index/resource_index/package_run_dependencies/lab1_pkg
+[0.603s] -- Installing: /root/lab1_ws/install/lab1_pkg/share/ament_index/resource_index/parent_prefix_path/lab1_pkg
+[0.603s] -- Installing: /root/lab1_ws/install/lab1_pkg/share/lab1_pkg/environment/ament_prefix_path.sh
+[0.603s] -- Installing: /root/lab1_ws/install/lab1_pkg/share/lab1_pkg/environment/ament_prefix_path.dsv
+[0.603s] -- Installing: /root/lab1_ws/install/lab1_pkg/share/lab1_pkg/environment/path.sh
+[0.604s] -- Installing: /root/lab1_ws/install/lab1_pkg/share/lab1_pkg/environment/path.dsv
+[0.604s] -- Installing: /root/lab1_ws/install/lab1_pkg/share/lab1_pkg/local_setup.bash
+[0.604s] -- Installing: /root/lab1_ws/install/lab1_pkg/share/lab1_pkg/local_setup.sh
+[0.604s] -- Installing: /root/lab1_ws/install/lab1_pkg/share/lab1_pkg/local_setup.zsh
+[0.604s] -- Installing: /root/lab1_ws/install/lab1_pkg/share/lab1_pkg/local_setup.dsv
+[0.604s] -- Installing: /root/lab1_ws/install/lab1_pkg/share/lab1_pkg/package.dsv
+[0.605s] -- Installing: /root/lab1_ws/install/lab1_pkg/share/ament_index/resource_index/packages/lab1_pkg
+[0.605s] -- Installing: /root/lab1_ws/install/lab1_pkg/share/lab1_pkg/cmake/lab1_pkgConfig.cmake
+[0.605s] -- Installing: /root/lab1_ws/install/lab1_pkg/share/lab1_pkg/cmake/lab1_pkgConfig-version.cmake
+[0.605s] -- Installing: /root/lab1_ws/install/lab1_pkg/share/lab1_pkg/package.xml
+[0.608s] Invoked command in '/root/lab1_ws/build/lab1_pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /root/lab1_ws/build/lab1_pkg
