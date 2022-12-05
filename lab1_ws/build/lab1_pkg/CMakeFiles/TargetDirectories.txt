@@ -1,9 +1,0 @@
-/root/lab1_ws/build/lab1_pkg/CMakeFiles/install/strip.dir
-/root/lab1_ws/build/lab1_pkg/CMakeFiles/install/local.dir
-/root/lab1_ws/build/lab1_pkg/CMakeFiles/install.dir
-/root/lab1_ws/build/lab1_pkg/CMakeFiles/list_install_components.dir
-/root/lab1_ws/build/lab1_pkg/CMakeFiles/rebuild_cache.dir
-/root/lab1_ws/build/lab1_pkg/CMakeFiles/edit_cache.dir
-/root/lab1_ws/build/lab1_pkg/CMakeFiles/test.dir
-/root/lab1_ws/build/lab1_pkg/CMakeFiles/lab1_pkg_uninstall.dir
-/root/lab1_ws/build/lab1_pkg/CMakeFiles/uninstall.dir
